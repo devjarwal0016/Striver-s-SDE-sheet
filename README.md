@@ -115,6 +115,3 @@ Building consistency, not excuses.
 ⭐ Final Note
 
 This repository is part of my commitment to becoming a top-tier software engineer, not just someone who “knows syntax.”
-
-If you find value here, star the repo.
-If you don’t, outwork me.
